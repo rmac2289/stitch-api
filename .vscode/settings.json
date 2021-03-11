@@ -1,9 +1,9 @@
 {
   "workbench.colorCustomizations": {
-    "titleBar.activeForeground": "#fcf8f8",
-    "titleBar.inactiveForeground": "#fcf8f8",
-    "titleBar.activeBackground": "#572837",
-    "titleBar.inactiveBackground": "#572837"
+    "titleBar.activeForeground": "#fff",
+    "titleBar.inactiveForeground": "#ffffffcc",
+    "titleBar.activeBackground": "#FF2C70",
+    "titleBar.inactiveBackground": "#FF2C70CC"
   },
   "editor.formatOnSave": true,
   "[javascript]": {
@@ -16,6 +16,5 @@
   "editor.codeActionsOnSave": {
     "source.fixAll": true
   },
-  "prettier.disableLanguages": ["javascript", "javascriptreact"],
-  "prettier.singleQuote": true
+  "prettier.disableLanguages": ["javascript", "javascriptreact"]
 }
